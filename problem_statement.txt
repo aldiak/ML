@@ -1,0 +1,10 @@
+# problem statement
+
+Walmart wants to open a chain of stores across
+Florida and wants to find out optimal store locations
+to maximize revenue.
+
+# Solution
+1. Walmart already has a strong e-commerce presence
+2. Walmart can use its online customer data to analyze
+the customerlocations along with the monyhly sales.
